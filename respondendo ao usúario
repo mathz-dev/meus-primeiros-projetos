@@ -1,0 +1,6 @@
+nome = input('qual seu nome? ')
+idade = input('qual sua idade? ')
+corfav = input('qual sua cor favorita? ')
+profissao = input('qual sua profissão? ')
+print(f'olá {nome}! você tem {idade} anos')
+print(f'sua cor favorita é {corfav} e sua profissão é {profissao}.')
